@@ -1,4 +1,4 @@
-name: 'Build'
+name: 'build_cornes_plus_8v_bt'
 on: workflow_dispatch
 jobs:
   build:
